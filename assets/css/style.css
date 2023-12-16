@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/header.jpg);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+ }
+.w-fit{
+    width: fit-content;
+}
+.title{
+    font-family: "Pacifico", cursive;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Righteous', sans-serif;
+}
